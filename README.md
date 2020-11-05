@@ -1,3 +1,5 @@
+![](Banner.png)
+
 # Hello, I'm Drew 👋🏻 🧑🏻‍💻
 
 I'm currently the lead software engineer @ [52inc](https://52inc.com/) where we work passionately on projects that we and our clients love. I am passionate about building high quality **Android** and mobile applications as well as contributing to the world of open-source.
