@@ -2,7 +2,7 @@
 
 # Hello, I'm Drew 👋🏻 🧑🏻‍💻
 
-I'm currently a Senior Software Engineer @ reddit working to improve their Android app. I am passionate about building high quality **Android** and mobile applications as well as contributing to the world of open-source.
+I'm currently a Staff Software Engineer @ reddit working to improve their Android app. I am passionate about building high quality **Android** and mobile applications as well as contributing to the world of open-source.
 
 ### :computer: &nbsp; Technology 
 
