@@ -2,46 +2,31 @@
 
 # Hello, I'm Drew 👋🏻 🧑🏻‍💻
 
-I'm currently a Staff Software Engineer @ reddit working to improve their Android app. I am passionate about building high quality **Android** and mobile applications as well as contributing to the world of open-source.
+I'm currently a Staff Software Engineer @ reddit working to improve their Android app. I am passionate about building high quality **Android** and mobile applications as well as contributing to the world of open-source. 
 
-### :computer: &nbsp; Technology 
+Some of my favorite topics in Android right now are:
+* Compose (Ui/Compiler/UiState)
+* Kotlin Multiplaform
+* Dependency Injection
+* Anvil
 
-- Android 
-- Flutter
-- Firebase
-- ReactJS
-- Unity3D
+## Here are a few of my projects
 
-### :abc: &nbsp; Languages 
+[![DeckBox](https://raw.githubusercontent.com/r0adkll/DeckBox/modern/.github/art/GithubBanner.png)](https://github.com/r0adkll/DeckBox)
 
-- Kotlin
-- Java
-- Swift
-- Dart
-- Typescript
-- Javascript
-- Python
-- C#
+**DeckBox** is an unofficial deck building app for creating and managing your Pokémon TCG decklists. Whether you are building and tweaking the top decks in the meta or just experimenting with some spicy rogue decks, search through a large collection of Pokémon cards that span from the latest expansion all the way back to the base set.
 
-### :school: &nbsp; I want to learn & do more ...
+---
 
-- Rust
-- Golang
-- iOS & More Swift
-- Gamedev
-- Webdev
-- Backend Infrastructure
-- Tech Talks
-- OSS
+[![Chipper](https://github.com/r0adkll/Chipper/blob/1cd5b2359bfc338cc7ec48878f65fd0b188c2cc9/play_banner.png)](https://github.com/r0adkll/Chipper/)
 
-### :mailbox_with_mail: &nbsp; How to reach me
+_Archived_ 
+**Chipper** is a keygen jukebox with over 1400 chiptunes sourced from key generators to play from.
 
-- Email: **[veedubusc@gmail.com](mailto:veedubusc@gmail.com)**
-- Twitter: **[@r0adkll](https://twitter.com/R0ADKLL)**
-- Discord: **r0adkll | Drew#6526**
-- Reddit: **[r0adkll](https://www.reddit.com/user/r0adkll)**
 
-# See my work below &nbsp; :arrow_down:
+---
+
+# See more of my work below &nbsp; :arrow_down:
 
 <!--
 **r0adkll/r0adkll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
