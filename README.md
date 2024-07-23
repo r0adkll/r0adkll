@@ -18,6 +18,12 @@ Some of my favorite topics in Android right now are:
 
 ---
 
+[![Campfire](https://github.com/r0adkll/Campfire/raw/master/.github/art/GithubBanner.png)](https://github.com/r0adkll/Campfire)
+
+**Campfire** is an unofficial client app for [audiobookshelf](https://audiobookshelf.org) written in Kotlin Multiplatform & Compose. This app is currently a work in progress.
+
+---
+
 [![Chipper](https://github.com/r0adkll/Chipper/blob/1cd5b2359bfc338cc7ec48878f65fd0b188c2cc9/play_banner.png)](https://github.com/r0adkll/Chipper/)
 
 _Archived_ 
